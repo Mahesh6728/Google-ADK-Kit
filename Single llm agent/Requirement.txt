@@ -1,0 +1,6 @@
+GenerativeAi library
+This is single-llm-agent consists of 
+1) main.py --- Start the program
+2) agent.py -- how the agent thinks
+3)tools.py--- what tools the agent can use
+4)config.py --- Model and api setup
