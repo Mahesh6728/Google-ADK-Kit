@@ -9,4 +9,4 @@ api_key = os.getenv("Mahi_API_KEY")
 MODEL = "gemini-3-flash-preview" # Specify the model to use
 client = genai.Client(api_key = api_key) # Create a client instance
 
-print(api_key)
+#print(api_key)
